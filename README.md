@@ -9,11 +9,11 @@
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmilsonapolinario&show_icons=true&theme=tokyonight&title_color=bd93f9&icon_color=ff6b9b&text_color=9aa0a6&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apolinário-pixel&show_icons=true&theme=tokyonight&title_color=bd93f9&icon_color=ff6b9b&text_color=9aa0a6&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edmilsonapolinario&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apolinário-pixel&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsonapolinario&layout=compact&theme=tokyonight&title_color=ff6b9b&text_color=9aa0a6&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apolinário-pixel&layout=compact&theme=tokyonight&title_color=ff6b9b&text_color=9aa0a6&bg_color=0d1117)
 
 ---
 
