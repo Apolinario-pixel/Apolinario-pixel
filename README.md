@@ -1,64 +1,56 @@
-<!-- Banner animado (você pode trocar o link do GIF por outro que gostar) -->
+
+<!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+  <img src="https://i.imgur.com/SEU_BANNER.png" alt="Banner do Apolinario-pixel" width="800"/>
 </p>
 
-# 👋 Olá, eu sou o Apolinário  
-
-🎓 Estudante de Ciência da Computação  
-💻 Apaixonado por programação, lógica e sistemas de gestão  
-🚀 Sempre aprendendo e construindo novos projetos  
+<h1 align="center">Olá! 👋 Eu sou <b>Apolinario-pixel</b></h1>
+<p align="center">💻 Desenvolvedor apaixonado por tecnologia e programação | 🌌 Dark lover</p>
 
 ---
 
-## ⚡ Sobre mim  
-
-- 💻 *Estudante de Ciência da Computação*  
-- 📚 Atualmente focado em *C, Estruturas de Dados e Teoria dos Grafos*  
-- 🎯 Interesse principal em *Backend, Algoritmos e Logística*  
-- 🚀 Gosto de *desafios práticos*, resolver problemas reais e aprender novas tecnologias  
-- 🌐 Objetivo: evoluir constantemente e aplicar conhecimento em *projetos de impacto*  
+## 🧑‍💻 Sobre mim
+- 🔭 Atualmente estudando **Ciência da Computação**  
+- 🌱 Aprendendo: **Python, C, C++, JavaScript e Git**  
+- 👯 Buscando colaborar em **projetos open-source**  
+- 💬 Pergunte-me sobre programação, algoritmos e desenvolvimento web  
+- ⚡ Curiosidade: adoro criar **interfaces dark modernas**  
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
+## 🛠️ Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apolinario-pixel&show_icons=true&theme=dark&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolinario-pixel&layout=compact&theme=dark&hide_border=true" height="180em"/>
-</p>
-
----
-
-## 🛠 Linguagens & Ferramentas  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo  
-
+## 📊 Minhas Estatísticas do GitHub
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Apolinario-pixel&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apolinario-pixel&theme=dark&hide_border=true" alt="Streak GitHub" />
 </p>
 
 ---
 
-✨ Obrigado por visitar meu perfil!
+## 🌟 Projetos em Destaque
+<p align="center">
+  <a href="https://github.com/Apolinario-pixel/NomeDoProjeto1"><img src="https://img.shields.io/badge/NomeDoProjeto1-dark?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Apolinario-pixel/NomeDoProjeto2"><img src="https://img.shields.io/badge/NomeDoProjeto2-dark?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Apolinario-pixel/NomeDoProjeto3"><img src="https://img.shields.io/badge/NomeDoProjeto3-dark?style=for-the-badge&logo=github" /></a>
+</p>
 
+---
 
-
+## 📫 Contato
+<p align="center">
+  <a href="https://github.com/Apolinario-pixel" target="_blank">GitHub</a> |
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">LinkedIn</a> |
+  <a href="mailto:seuemail@email.com" target="_blank">Email</a>
+</p>
