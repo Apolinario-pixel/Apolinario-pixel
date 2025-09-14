@@ -1,46 +1,64 @@
+<!-- Banner animado (você pode trocar o link do GIF por outro que gostar) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF">
+</p>
+
+# 👋 Olá, eu sou o Apolinário  
+
+🎓 Estudante de Ciência da Computação  
+💻 Apaixonado por programação, lógica e sistemas de gestão  
+🚀 Sempre aprendendo e construindo novos projetos  
 
 ---
 
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=white&color=bd93f9)](https://linkedin.com/in/edmilsonapolinario)
-[![Instagram](https://img.shields.io/badge/Instagram-282a36?style=for-the-badge&logo=instagram&logoColor=white&color=ff6b9b)](https://instagram.com/edmilsonapolinario)
-[![Email](https://img.shields.io/badge/Email-282a36?style=for-the-badge&logo=gmail&logoColor=white&color=50fa7b)](mailto:seuemail@gmail.com)
+## ⚡ Sobre mim  
+
+- 💻 *Estudante de Ciência da Computação*  
+- 📚 Atualmente focado em *C, Estruturas de Dados e Teoria dos Grafos*  
+- 🎯 Interesse principal em *Backend, Algoritmos e Logística*  
+- 🚀 Gosto de *desafios práticos*, resolver problemas reais e aprender novas tecnologias  
+- 🌐 Objetivo: evoluir constantemente e aplicar conhecimento em *projetos de impacto*  
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apolinario-pixel&show_icons=true&theme=tokyonight&title_color=bd93f9&icon_color=ff6b9b&text_color=9aa0a6&bg_color=0d1117)
+## 📊 Estatísticas do GitHub  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apolinario-pixel&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apolinario-pixel&layout=compact&theme=tokyonight&title_color=ff6b9b&text_color=9aa0a6&bg_color=0d1117)
-
----
-
-## 🛠️ Linguagens & Ferramentas
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-282a36?style=for-the-badge&logo=c&logoColor=00bfff)
-![Python](https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=ffd43b)
-![JavaScript](https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-282a36?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-![Git](https://img.shields.io/badge/Git-282a36?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-282a36?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Apolinario-pixel&show_icons=true&theme=dark&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolinario-pixel&layout=compact&theme=dark&hide_border=true" height="180em"/>
+</p>
 
 ---
 
-## ⚡ Sobre mim
-- 🌱 Estudando **C**, **Estruturas de Dados** e **Teoria dos Grafos**  
-- 🎯 Focado em **backend** e **algoritmos**  
-- 🕹️ Curto desafios, projetos práticos e aprender novas tecnologias  
+## 🛠 Linguagens & Ferramentas  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-![Avatar](https://github.com/edmilsonapolinario.png?size=120)
+## 🌐 Conecte-se comigo  
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ Obrigado por visitar meu perfil!
+
+
 
