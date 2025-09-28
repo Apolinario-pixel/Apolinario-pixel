@@ -1,15 +1,10 @@
-<!-- Capa Moderna com Cores -->
+<!-- Banner com imagem de computador -->
 <p align="center">
-  <span style="font-size:40px; color:#00FFFF; font-family:Arial, sans-serif;">
-    Olá, eu sou <b>Apolinario-pixel</b> 👋
-  </span>
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" 
+       width="800" alt="Computador Futurista"/>
 </p>
 
-<p align="center">
-  <span style="font-size:20px; color:#FFD700; font-family:'Courier New', monospace;">
-    Explorando tecnologia e programação
-  </span>
-</p>
+
 
 
 
