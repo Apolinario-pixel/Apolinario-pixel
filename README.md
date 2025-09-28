@@ -1,8 +1,4 @@
-<!-- Banner com imagem -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581092795360-22044bba4b7f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
-       width="600" alt="Tecnologia futurista"/>
-</p>
+
 
 
 
@@ -10,6 +6,25 @@
   💻✨ 𝙾𝙻Á! 👋 𝙴𝚄 𝚂𝙾𝚄 <b>𝘼𝗣𝗢𝗟𝗜𝗡𝗔𝗥𝗜𝗢-𝗣𝗜𝗫𝗘𝗟</b> ✨💻
 </h1>
 
+<!-- Capa Moderna GitHub -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee9813?auto=format&fit=crop&w=1200&q=80" 
+       width="800" alt="Capa Tecnológica"/>
+</p>
+
+<h1 align="center">Olá, eu sou <b>Apolinario-pixel</b> 👋</h1>
+<p align="center">
+  <em>Explorando tecnologia, programação e criatividade digital</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Apolinario-pixel">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-perfil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 
 <p align="center">
