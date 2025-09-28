@@ -1,10 +1,17 @@
-<!-- Banner com GIF + Texto Animado Fonte Gráfica -->
+<!-- Banner Estilo Futurista Neon -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Computador animado"/>
+  💻✨🌌 𝙾𝙻Á! 👋 𝙴𝚄 𝚂𝙾𝚄 <b>𝘼𝗣𝗢𝗟𝗜𝗡𝗔𝗥𝗜𝗢-𝗣𝗜𝗫𝗘𝗟</b> 🌌✨💻
+</p>
+<p align="center">
+  ⚡💻 𝙁𝚞𝚝𝚞𝚛𝚒𝚜𝚝𝚊 𝙽𝚎𝚘𝚗 𝙱𝚊𝚗𝚗𝚎𝚛 ⚡💻
+</p>
+<p align="center">
+  🌟💾 🔹 💾 🌟
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=🚀+Apolinário-pixel;💻+Estudante+de+Ciência+da+Computação;👾+Bem-vindo+ao+meu+GitHub!" alt="Texto animado cyberpunk"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=🚀+Dv.Apolinário;💻+Estudante+de+Ciência+da+Computação;👾+Bem-vindo+ao+meu+GitHub!" alt="Texto animado cyberpunk"/>
 </p>
 
 <h1 align="center">
