@@ -7,15 +7,16 @@
        alt="Apolinario-pixel" width="800" style="border-radius:15px;"/>
 </p>
 
-
-
 <h1 align="center">
-  👾 <span style="color:#00FFCC;">Dv.Apolinario</span>
+  👾 <span style="color:#00FFCC;">Dv.Apolinario</span> 👾
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Banner Animado"/>
+  ✨💻✨💻✨💻✨💻✨
 </p>
+
+
+
 
 
 
