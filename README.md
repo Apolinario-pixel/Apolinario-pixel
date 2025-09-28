@@ -1,13 +1,13 @@
-<!-- Banner Estilo Futurista Neon -->
+<!-- Banner com imagem + texto moderno -->
 <p align="center">
-  💻✨🌌 𝙾𝙻Á! 👋 𝙴𝚄 𝚂𝙾𝚄 <b>𝘼𝗣𝗢𝗟𝗜𝗡𝗔𝗥𝗜𝗢-𝗣𝗜𝗫𝗘𝗟</b> 🌌✨💻
+  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee9813?auto=format&fit=crop&w=800&q=80" 
+       width="600" alt="Computador futurista"/>
 </p>
-<p align="center">
-  ⚡💻 𝙁𝚞𝚝𝚞𝚛𝚒𝚜𝚝𝚊 𝙽𝚎𝚘𝚗 𝙱𝚊𝚗𝚗𝚎𝚛 ⚡💻
-</p>
-<p align="center">
-  🌟💾 🔹 💾 🌟
-</p>
+
+<h1 align="center">
+  💻✨ 𝙾𝙻Á! 👋 𝙴𝚄 𝚂𝙾𝚄 <b>𝘼𝗣𝗢𝗟𝗜𝗡𝗔𝗥𝗜𝗢-𝗣𝗜𝗫𝗘𝗟</b> ✨💻
+</h1>
+
 
 
 <p align="center">
