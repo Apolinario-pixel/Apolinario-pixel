@@ -1,4 +1,3 @@
-
 <!-- Capa Moderna com Cores -->
 <p align="center">
   <span style="font-size:40px; color:#00FFFF; font-family:Arial, sans-serif;">
@@ -11,6 +10,7 @@
     Explorando tecnologia e programação
   </span>
 </p>
+
 
 
 
