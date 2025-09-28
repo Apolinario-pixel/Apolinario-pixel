@@ -1,25 +1,18 @@
-<!-- Banner Gamer Avançado -->
-<p align="center" style="background-color:#0d0d0d; padding:20px; border-radius:15px;">
-  <img src="https://i.ibb.co/4f6v4FJ/gaming-pc.jpg" 
-       width="100%" max-width="800px" alt="Setup Gamer" style="border-radius:15px;"/>
+
+ <!-- Banner Gamer Avançado -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Apolinario-pixel/assets/main/gaming-pc.jpg" 
+       alt="Setup Gamer" width="800" style="border-radius:15px;">
 </p>
 
-<h1 align="center" style="animation: glow 1.5s infinite alternate;">
-  👾 <span style="color:#00FFCC; font-family:'Courier New', monospace; text-shadow: 2px 2px #FF0055;">Apolinario-pixel</span>
+<h1 align="center">
+  👾 <span style="color:#00FFCC; font-family:'Courier New', monospace;">Apolinario-pixel</span>
 </h1>
 
-<p align="center" style="animation: glow 1.5s infinite alternate;">
-  🔥 <span style="color:#FF0055; font-family:'Courier New', monospace; text-shadow: 1px 1px #00FFCC;">Explorando tecnologia e programação</span>
+<p align="center">
+  🔥 <span style="color:#FF0055; font-family:'Courier New', monospace;">Explorando tecnologia e programação</span>
 </p>
-
-<style>
-  @keyframes glow {
-    from { text-shadow: 0 0 5px #00FFCC, 0 0 10px #FF0055; }
-    to { text-shadow: 0 0 20px #00FFCC, 0 0 30px #FF0055; }
-  }
-</style>
-
-
 
 
 
