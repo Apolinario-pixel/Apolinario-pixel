@@ -8,20 +8,7 @@
 </p>
 
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Bio</title>
-  <!-- Fonte bonita e gráfica -->
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
-</head>
-<body>
-  <h1 style="text-align:center; font-family:'Orbitron', sans-serif; color:#00ffea; text-shadow:2px 2px 5px #000;">
-    Olá! 👋 Eu sou <b style="color:#ffde59;">Apolinário-pixel</b>
-  </h1>
-</body>
-</html>
+
 
 
 
