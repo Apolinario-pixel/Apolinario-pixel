@@ -1,8 +1,9 @@
 <!-- Banner com imagem + texto moderno -->
 <p align="center">
-  <img src="https://media.istockphoto.com/photos/office-communication-network-picture-id1187601051" 
+  <img src="https://cdn.pixabay.com/photo/2017/07/31/11/22/technology-2568871_960_720.jpg" 
        width="600" alt="Tecnologia no ambiente de trabalho"/>
 </p>
+
 
 <h1 align="center">
   💻✨ 𝙾𝙻Á! 👋 𝙴𝚄 𝚂𝙾𝚄 <b>𝘼𝗣𝗢𝗟𝗜𝗡𝗔𝗥𝗜𝗢-𝗣𝗜𝗫𝗘𝗟</b> ✨💻
