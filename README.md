@@ -8,11 +8,9 @@
 </p>
 
 <h1 align="center">
-  <font face="Verdana, Geneva, sans-serif" color="#FF6EC4">
-    Olá! 👋 Eu sou 
-    <b><font face="Tahoma, Geneva, sans-serif" color="#7873F5">Apolinario-pixel</font></b>
-  </font>
+  ✨💻 𝙾𝚕á! 👋 𝙴𝚞 𝚜𝚘𝚞 <b>𝙰𝚙𝚘𝚕𝚒𝚗𝚊𝚛𝚒𝚘-𝚙𝚒𝚡𝚎𝚕</b> 💻✨
 </h1>
+
 
 
 
