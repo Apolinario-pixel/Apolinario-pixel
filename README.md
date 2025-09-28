@@ -11,10 +11,10 @@
 
 ## 🧑‍💻 Sobre mim
 - 🔭 Atualmente estudando **Ciência da Computação**  
-- 🌱 Aprendendo: **Python, C, C++, JavaScript e Git**  
-- 👯 Buscando colaborar em **projetos open-source**  
-- 💬 Pergunte-me sobre programação, algoritmos e desenvolvimento web  
-- ⚡ Curiosidade: adoro criar **interfaces dark modernas**  
+- 🌱 Aprendendo: **Python, C, java,**  
+
+  
+  
 
 ---
 
