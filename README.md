@@ -1,14 +1,14 @@
-<!-- Banner Gamer -->
-<p align="center">
+<!-- Banner Gamer Avançado -->
+<p align="center" style="background-color:#0d0d0d; padding:20px; border-radius:15px;">
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" 
-       width="800" alt="Computador Gamer"/>
+       width="800" alt="Computador Gamer" style="border-radius:15px;"/>
 </p>
 
 <h1 align="center">
-  👾 <span style="color:#00FFCC; font-family: 'Courier New', monospace;">Apolinario-pixel</span>
+  👾 <span style="color:#00FFCC; font-family:'Courier New', monospace; text-shadow: 2px 2px #FF0055;">Apolinario-pixel</span>
 </h1>
 <p align="center">
-  🔥 <span style="color:#FF0055; font-family: 'Courier New', monospace;">Explorando tecnologia e programação</span>
+  🔥 <span style="color:#FF0055; font-family:'Courier New', monospace; text-shadow: 1px 1px #00FFCC;">Explorando tecnologia e programação</span>
 </p>
 
 
