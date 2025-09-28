@@ -1,4 +1,4 @@
-<!-- Banner com imagem + texto moderno -->
+<!-- Banner com imagem -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1581092795360-22044bba4b7f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
        width="600" alt="Tecnologia futurista"/>
