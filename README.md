@@ -7,9 +7,32 @@
        alt="Apolinario-pixel" width="800" style="border-radius:15px;"/>
 </p>
 
-<h1 align="center">
+<h1 align="center" style="
+  font-family: 'Courier New', monospace; 
+  font-size: 60px; 
+  background: linear-gradient(270deg, #00FFCC, #FF00FF, #FFFF00, #00FFCC); 
+  background-size: 800% 800%; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  animation: gradientMove 8s ease infinite, pulse 2s infinite;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.5);
+">
   👾 Dv.Apolinario
 </h1>
+
+<style>
+@keyframes gradientMove {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+
+@keyframes pulse {
+  0%, 100% {transform: scale(1);}
+  50% {transform: scale(1.1);}
+}
+</style>
+
 
 
 
