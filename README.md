@@ -1,12 +1,12 @@
-
-<!-- Banner -->
+<!-- Banner com GIF + Texto Animado Cyberpunk -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Computador animado"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Apolinário-pixel;Sempre+codando+no+escuro+🌑;Amante+de+tecnologia+💻" alt="Texto animado"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Olá!+Eu+sou+Apolinário-pixel;Estudante+de+Ciência+da+Computação;Sempre+em+busca+de+evoluir+💻;Bem-vindo+ao+meu+GitHub!" alt="Texto animado cyberpunk"/>
 </p>
+
 
 
 
