@@ -1,35 +1,25 @@
 
-
-
-
-<h1 align="center">
-  💻✨ 𝙾𝙻Á! 👋 𝙴𝚄 𝚂𝙾𝚄 <b>𝘼𝗣𝗢𝗟𝗜𝗡𝗔𝗥𝗜𝗢-𝗣𝗜𝗫𝗘𝗟</b> ✨💻
-</h1>
-
-<!-- Capa Moderna GitHub -->
+<!-- Capa Moderna com Cores -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee9813?auto=format&fit=crop&w=1200&q=80" 
-       width="800" alt="Capa Tecnológica"/>
-</p>
-
-<h1 align="center">Olá, eu sou <b>Apolinario-pixel</b> 👋</h1>
-<p align="center">
-  <em>Explorando tecnologia, programação e criatividade digital</em>
+  <span style="font-size:40px; color:#00FFFF; font-family:Arial, sans-serif;">
+    Olá, eu sou <b>Apolinario-pixel</b> 👋
+  </span>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Apolinario-pixel">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/seu-perfil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <span style="font-size:20px; color:#FFD700; font-family:'Courier New', monospace;">
+    Explorando tecnologia e programação
+  </span>
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=🚀+Dv.Apolinário;💻+Estudante+de+Ciência+da+Computação;👾+Bem-vindo+ao+meu+GitHub!" alt="Texto animado cyberpunk"/>
-</p>
+
+
+
+
+
+
+
 
 <h1 align="center">
   ✨💻 𝙾𝚕á! 👋 𝙴𝚞 𝚜𝚘𝚞 <b>𝙰𝚙𝚘𝚕𝚒𝚗𝚊𝚛𝚒𝚘-𝚙𝚒𝚡𝚎𝚕</b> 💻✨
