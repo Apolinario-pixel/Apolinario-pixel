@@ -1,8 +1,9 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Olá!+Eu+sou+Apolinário-pixel;Desenvolvedor+apaixonado+por+tecnologia;Amante+do+universo+sombrio+%F0%9F%8C%9A" alt="Banner animado Apolinário-pixel"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=120&section=header&text=Apolinário-pixel&fontSize=45&fontColor=00ffcc&fontAlignY=35&desc=Desenvolvedor%20Sombrio%20|%20Apaixonado%20por%20Tecnologia&descAlignY=70&descAlign=50" alt="Banner do Apolinário-pixel"/>
 </p>
+
 
 
 
