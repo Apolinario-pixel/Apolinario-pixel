@@ -7,13 +7,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=🚀+Apolinário-pixel;💻+Estudante+de+Ciência+da+Computação;👾+Bem-vindo+ao+meu+GitHub!" alt="Texto animado cyberpunk"/>
 </p>
 
+<h1 align="center">
+  <font face="Verdana, Geneva, sans-serif" color="#FF6EC4">
+    Olá! 👋 Eu sou 
+    <b><font face="Tahoma, Geneva, sans-serif" color="#7873F5">Apolinario-pixel</font></b>
+  </font>
+</h1>
 
 
 
 
 
 
-<h1 align="center">Olá! 👋 Eu sou <b>Apolinario-pixel</b></h1>
+
 <p align="center">🧩 Resolvendo problemas, um algoritmo por vez | #VidaDeCoder
 
 ---
