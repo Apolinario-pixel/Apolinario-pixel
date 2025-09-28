@@ -14,7 +14,7 @@
 
 
 <h1 align="center">Olá! 👋 Eu sou <b>Apolinario-pixel</b></h1>
-<p align="center">💻 Desenvolvedor apaixonado por tecnologia e programação | 🌌 Dark lover</p>
+<p align="center">🧩 Resolvendo problemas, um algoritmo por vez | #VidaDeCoder
 
 ---
 
