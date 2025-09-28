@@ -1,18 +1,30 @@
 
- <!-- Banner Gamer Avançado -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Apolinario-pixel/assets/main/gaming-pc.jpg" 
-       alt="Setup Gamer" width="800" style="border-radius:15px;">
-</p>
-
-<h1 align="center">
-  👾 <span style="color:#00FFCC; font-family:'Courier New', monospace;">Apolinario-pixel</span>
+<h1 align="center" style="
+    font-family: 'Courier New', monospace; 
+    font-size: 60px; 
+    background: linear-gradient(90deg, #00FFCC, #FF0055, #FFDD00, #00FFCC);
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 8px #FF0055, 0 0 20px #00FFCC, 0 0 30px #FFDD00;
+    animation: neonPulse 1.5s infinite alternate;
+">
+  👾 Apolinario-pixel
 </h1>
 
-<p align="center">
-  🔥 <span style="color:#FF0055; font-family:'Courier New', monospace;">Explorando tecnologia e programação</span>
-</p>
+<style>
+@keyframes neonPulse {
+  from {
+    text-shadow: 2px 2px 8px #FF0055, 0 0 20px #00FFCC, 0 0 30px #FFDD00;
+    transform: scale(1);
+  }
+  to {
+    text-shadow: 2px 2px 20px #FF0055, 0 0 40px #00FFCC, 0 0 50px #FFDD00;
+    transform: scale(1.05);
+  }
+}
+</style>
+
 
 
 
