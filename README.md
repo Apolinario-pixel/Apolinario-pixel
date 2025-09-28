@@ -1,7 +1,7 @@
 <!-- Banner com imagem + texto moderno -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee9813?auto=format&fit=crop&w=800&q=80" 
-       width="600" alt="Computador futurista"/>
+  <img src="https://media.istockphoto.com/photos/office-communication-network-picture-id1187601051" 
+       width="600" alt="Tecnologia no ambiente de trabalho"/>
 </p>
 
 <h1 align="center">
