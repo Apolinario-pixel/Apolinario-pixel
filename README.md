@@ -4,6 +4,12 @@
        width="800" alt="Computador Futurista"/>
 </p>
 
+<h2 align="center">
+  👋 Olá, eu sou <b>Apolinario-pixel</b>
+</h2>
+<p align="center">
+  💻 Explorando tecnologia e programação
+</p>
 
 
 
