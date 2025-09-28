@@ -1,6 +1,6 @@
 <!-- Banner Gamer Avançado -->
 <p align="center" style="background-color:#0d0d0d; padding:20px; border-radius:15px;">
-  <img src="https://images.unsplash.com/photo-1581091215363-2b2c37a9d0d0?auto=format&fit=crop&w=1200&q=80" 
+  <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
        width="800" alt="Setup Gamer" style="border-radius:15px;"/>
 </p>
 
@@ -10,6 +10,7 @@
 <p align="center">
   🔥 <span style="color:#FF0055; font-family:'Courier New', monospace; text-shadow: 1px 1px #00FFCC;">Explorando tecnologia e programação</span>
 </p>
+
 
 
 
