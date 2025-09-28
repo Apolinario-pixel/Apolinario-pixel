@@ -1,8 +1,9 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/SEU_BANNER.png" alt="Banner do Apolinario-pixel" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Apolinário-pixel&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Banner do Apolinário-pixel"/>
 </p>
+
 
 <h1 align="center">Olá! 👋 Eu sou <b>Apolinario-pixel</b></h1>
 <p align="center">💻 Desenvolvedor apaixonado por tecnologia e programação | 🌌 Dark lover</p>
