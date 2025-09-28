@@ -1,8 +1,13 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=120&section=header&text=Apolinário-pixel&fontSize=45&fontColor=00ffcc&fontAlignY=35&desc=Desenvolvedor%20Sombrio%20|%20Apaixonado%20por%20Tecnologia&descAlignY=70&descAlign=50" alt="Banner do Apolinário-pixel"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Computador animado"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Apolinário-pixel;Sempre+codando+no+escuro+🌑;Amante+de+tecnologia+💻" alt="Texto animado"/>
+</p>
+
 
 
 
