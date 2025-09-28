@@ -8,16 +8,9 @@
 </p>
 
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Bio</title>
-</head>
-<body>
-  <h1>Olá! 👋 Eu sou <b>Apolinario-pixel</b></h1>
-</body>
-</html>
+<h1 style="text-align:center; font-family:Verdana, Geneva, sans-serif; color:#00ffea; text-shadow:2px 2px 5px #000;">
+  Olá! 👋 Eu sou <b style="color:#ffde59;">Apolinario-pixel</b>
+</h1>
 
 
 
