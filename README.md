@@ -1,15 +1,24 @@
 <!-- Banner Gamer Avançado -->
 <p align="center" style="background-color:#0d0d0d; padding:20px; border-radius:15px;">
-  <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" 
-       width="800" alt="Setup Gamer" style="border-radius:15px;"/>
+  <img src="https://images.unsplash.com/photo-1616599082754-9233b0e7a0b7?auto=format&fit=crop&w=1200&q=80" 
+       width="100%" max-width="800px" alt="Setup Gamer" style="border-radius:15px;"/>
 </p>
 
-<h1 align="center">
+<h1 align="center" style="animation: glow 1.5s infinite alternate;">
   👾 <span style="color:#00FFCC; font-family:'Courier New', monospace; text-shadow: 2px 2px #FF0055;">Apolinario-pixel</span>
 </h1>
-<p align="center">
+
+<p align="center" style="animation: glow 1.5s infinite alternate;">
   🔥 <span style="color:#FF0055; font-family:'Courier New', monospace; text-shadow: 1px 1px #00FFCC;">Explorando tecnologia e programação</span>
 </p>
+
+<style>
+  @keyframes glow {
+    from { text-shadow: 0 0 5px #00FFCC, 0 0 10px #FF0055; }
+    to { text-shadow: 0 0 20px #00FFCC, 0 0 30px #FF0055; }
+  }
+</style>
+
 
 
 
