@@ -8,43 +8,17 @@
 </p>
 
 
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <title>Bio</title>
-  <!-- Importando uma fonte gráfica do Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@500&display=swap" rel="stylesheet">
-  <style>
-    body {
-      background-color: #121212;
-      color: #00ffea;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      font-family: 'Orbitron', 'Press Start 2P', sans-serif;
-    }
-
-    h1 {
-      font-size: 3em;
-      text-align: center;
-      background: linear-gradient(90deg, #ff6ec4, #7873f5);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
-    }
-
-    b {
-      color: #ffde59;
-    }
-  </style>
 </head>
 <body>
   <h1>Olá! 👋 Eu sou <b>Apolinario-pixel</b></h1>
 </body>
 </html>
+
 
 
 
