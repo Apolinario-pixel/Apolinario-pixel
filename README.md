@@ -40,12 +40,7 @@
 
 ---
 
-## 🌟 Projetos em Destaque
-<p align="center">
-  <a href="https://github.com/Apolinario-pixel/NomeDoProjeto1"><img src="https://img.shields.io/badge/NomeDoProjeto1-dark?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/Apolinario-pixel/NomeDoProjeto2"><img src="https://img.shields.io/badge/NomeDoProjeto2-dark?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/Apolinario-pixel/NomeDoProjeto3"><img src="https://img.shields.io/badge/NomeDoProjeto3-dark?style=for-the-badge&logo=github" /></a>
-</p>
+
 
 ---
 
