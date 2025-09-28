@@ -17,21 +17,6 @@
 
 
 
-
-
-<h1 align="center">
-  ✨💻 𝙾𝚕á! 👋 𝙴𝚞 𝚜𝚘𝚞 <b>Dv.Apolinário</b> 💻✨
-</h1>
-
-
-
-
-
-
-
-
-
-
 <p align="center">🧩 Resolvendo problemas, um algoritmo por vez | #VidaDeCoder
 
 ---
