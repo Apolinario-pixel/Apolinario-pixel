@@ -1,14 +1,14 @@
-<!-- Banner com imagem de computador no estilo dark -->
+<!-- Banner Gamer -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" 
-       width="800" alt="Computador Futurista"/>
+       width="800" alt="Computador Gamer"/>
 </p>
 
-<h2 align="center">
-  👋 <span style="color:#00FFFF;">Olá, eu sou <b>Apolinario-pixel</b></span>
-</h2>
+<h1 align="center">
+  👾 <span style="color:#00FFCC; font-family: 'Courier New', monospace;">Apolinario-pixel</span>
+</h1>
 <p align="center">
-  <span style="color:#FFD700;">💻 Explorando tecnologia e programação</span>
+  🔥 <span style="color:#FF0055; font-family: 'Courier New', monospace;">Explorando tecnologia e programação</span>
 </p>
 
 
