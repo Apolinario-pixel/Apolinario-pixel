@@ -1,6 +1,10 @@
-<!-- Banner com GIF + Texto Animado Cyberpunk -->
+<!-- Banner com GIF + Texto Animado Fonte Gráfica -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Computador animado"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=🚀+Apolinário-pixel;💻+Estudante+de+Ciência+da+Computação;⚡+Sempre+evoluindo+na+tecnologia;👾+Bem-vindo+ao+meu+GitHub!" alt="Texto animado cyberpunk"/>
 </p>
 
 
