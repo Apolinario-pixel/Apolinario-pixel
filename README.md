@@ -1,6 +1,6 @@
 <!-- Banner Gamer Avançado -->
 <p align="center" style="background-color:#0d0d0d; padding:20px; border-radius:15px;">
-  <img src="https://images.unsplash.com/photo-1616599082754-9233b0e7a0b7?auto=format&fit=crop&w=1200&q=80" 
+  <img src="https://i.ibb.co/4f6v4FJ/gaming-pc.jpg" 
        width="100%" max-width="800px" alt="Setup Gamer" style="border-radius:15px;"/>
 </p>
 
@@ -18,7 +18,6 @@
     to { text-shadow: 0 0 20px #00FFCC, 0 0 30px #FF0055; }
   }
 </style>
-
 
 
 
