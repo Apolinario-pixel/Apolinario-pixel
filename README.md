@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=🚀+Apolinário-pixel;💻+Estudante+de+Ciência+da+Computação;⚡+Sempre+evoluindo+na+tecnologia;👾+Bem-vindo+ao+meu+GitHub!" alt="Texto animado cyberpunk"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=🚀+Apolinário-pixel;💻+Estudante+de+Ciência+da+Computação;👾+Bem-vindo+ao+meu+GitHub!" alt="Texto animado cyberpunk"/>
 </p>
 
 
