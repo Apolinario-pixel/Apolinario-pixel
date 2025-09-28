@@ -8,12 +8,10 @@
 </p>
 
 <h1 align="center">
-  👾 Apolinario-pixel
+  👾 Dv.Apolinario
 </h1>
 
-<p align="center">
-  🔥 Explorando tecnologia e programação
-</p>
+
 
 
 
@@ -22,7 +20,7 @@
 
 
 <h1 align="center">
-  ✨💻 𝙾𝚕á! 👋 𝙴𝚞 𝚜𝚘𝚞 <b>𝙰𝚙𝚘𝚕𝚒𝚗𝚊𝚛𝚒𝚘-𝚙𝚒𝚡𝚎𝚕</b> 💻✨
+  ✨💻 𝙾𝚕á! 👋 𝙴𝚞 𝚜𝚘𝚞 <b>Dv.Apolinário</b> 💻✨
 </h1>
 
 
