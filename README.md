@@ -1,8 +1,9 @@
 <!-- Banner com imagem + texto moderno -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/07/31/11/22/technology-2568871_960_720.jpg" 
-       width="600" alt="Tecnologia no ambiente de trabalho"/>
+  <img src="https://images.unsplash.com/photo-1581092795360-22044bba4b7f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+       width="600" alt="Tecnologia futurista"/>
 </p>
+
 
 
 <h1 align="center">
