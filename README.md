@@ -1,15 +1,16 @@
-<!-- Banner com imagem de computador -->
+<!-- Banner com imagem de computador no estilo dark -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" 
        width="800" alt="Computador Futurista"/>
 </p>
 
 <h2 align="center">
-  👋 Olá, eu sou <b>Apolinario-pixel</b>
+  👋 <span style="color:#00FFFF;">Olá, eu sou <b>Apolinario-pixel</b></span>
 </h2>
 <p align="center">
-  💻 Explorando tecnologia e programação
+  <span style="color:#FFD700;">💻 Explorando tecnologia e programação</span>
 </p>
+
 
 
 
