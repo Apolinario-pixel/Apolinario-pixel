@@ -1,18 +1,17 @@
-
-
-
 <!-- Banner Gamer Estilizado -->
 <p align="center">
   <img src="https://tse2.mm.bing.net/th/id/OIP.fsUi3xiRNcSSUS3xZ_C9lQHaDe?pid=Api" 
        alt="Apolinario-pixel" width="800" style="border-radius:15px;"/>
 </p>
 
-<h1 align="center">
-  👾 <span style="color:#00FFCC;">Dv.Apolinario</span> 👾
-</h1>
+<p align="center">
+<span style="color:#00FFCC; font-size:32px;">╔════════════════╗</span><br>
+<span style="color:#FF00FF; font-size:32px;">║ 👾 Dv.Apolinario ║</span><br>
+<span style="color:#00FFCC; font-size:32px;">╚════════════════╝</span>
+</p>
 
 <p align="center">
-  ✨💻✨💻✨💻✨💻✨
+💻✨🕹️✨💻✨🕹️✨💻
 </p>
 
 
